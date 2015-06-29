@@ -1,0 +1,26 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Example TLD with Body</short-name>
+    <uri>WEB-INF/tags.tld</uri>
+    <tag>
+        <name>error</name>
+        <tag-class>by.pavel.tag.ErrorTag</tag-class>
+        <body-content>scriptless</body-content>
+        <attribute>
+            <name>attribute</name>
+            <rtexprvalue>true</rtexprvalue>
+            <type>by.pavel.Attribute.Request</type>
+        </attribute>
+    </tag>
+    <tag>
+        <name>message</name>
+        <tag-class>by.pavel.tag.MessageTag</tag-class>
+        <body-content>scriptless</body-content>
+        <attribute>
+            <name>message</name>
+            <rtexprvalue>true</rtexprvalue>
+            <type>java.lang.String</type>
+        </attribute>
+    </tag>
+</taglib>

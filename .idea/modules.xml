@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/travel-agency.iml" filepath="$PROJECT_DIR$/travel-agency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travel-agency-aspects/travel-agency-aspects.iml" filepath="$PROJECT_DIR$/travel-agency-aspects/travel-agency-aspects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travel-agency-business/travel-agency-business.iml" filepath="$PROJECT_DIR$/travel-agency-business/travel-agency-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travel-agency-data-access/travel-agency-data-access.iml" filepath="$PROJECT_DIR$/travel-agency-data-access/travel-agency-data-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travel-agency-domain-model/travel-agency-domain-model.iml" filepath="$PROJECT_DIR$/travel-agency-domain-model/travel-agency-domain-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travel-agency-presentation/travel-agency-presentation.iml" filepath="$PROJECT_DIR$/travel-agency-presentation/travel-agency-presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travel-agency-web-services/travel-agency-web-services.iml" filepath="$PROJECT_DIR$/travel-agency-web-services/travel-agency-web-services.iml" />
+    </modules>
+  </component>
+</project>
